@@ -118,3 +118,6 @@ a {
 #Bottom {
   text-indent: 1cm;
 }
+#emaillink {
+  color: red;
+}
