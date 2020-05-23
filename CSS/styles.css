@@ -1,0 +1,120 @@
+#Bottom {
+  background-color: black;
+}
+body {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  text-align: justify;
+  margin: 0cm;
+
+  padding: 0cm;
+}
+#mainbody {
+  background-image: url("../Images/Background 2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed, scroll;
+  background-size: contain;
+}
+hr {
+  color: rgb(255, 255, 255);
+  width: inherit;
+}
+.borderimg {
+  border-style: solid;
+  border-width: 1.5px;
+}
+ul {
+  list-style-type: none;
+}
+#table1,
+td {
+  text-align: center;
+}
+#table1,
+td {
+  white-space: nowrap;
+}
+#table1,
+td {
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 100%;
+  font-size: 20pt;
+}
+
+#table1,
+td {
+  padding: 5px;
+}
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Helvetica, sans-serif;
+}
+.banner2 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+.table2,
+td {
+  border: 1px solid rgba(250, 3, 3, 0);
+}
+
+.table2,
+td {
+  border-collapse: collapse;
+  width: 50%;
+  position: relative;
+  left: -10px;
+}
+
+.table2,
+td {
+  text-align: center;
+}
+
+#socials,
+ul li {
+  background: #000000;
+  margin: 1px;
+  padding: -5px;
+  margin-left: 40%;
+}
+#socials,
+a {
+  color: white;
+  text-decoration: none;
+}
+#btop {
+  margin-inline-end: 40%;
+  margin-right: 0%;
+}
+#copyr {
+  font-size: 8pt;
+}
+#socials {
+  font-size: 15pt;
+}
+#btop {
+  margin-left: 40%;
+}
+#mainbody {
+  padding-left: 1cm;
+}
+
+#Bottom {
+  text-indent: 1cm;
+}
